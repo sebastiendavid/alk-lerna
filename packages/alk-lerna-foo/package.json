@@ -8,7 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bar": "^1.0.0"
+  "dependencies": {},
+  "peerDependencies": {
+    "alk-lerna-bar": "~1.0.0"
   }
 }
