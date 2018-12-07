@@ -9,7 +9,7 @@
     },
     "bootstrap": {
       "ignore": "alk-lerna-yolo",
-      "npmClientArgs": ["--no-package-lock"]
+      "npmClientArgs": ["--no-package-lock", "--registry", "http://localhost:4873/"]
     }
   },
   "packages": [
