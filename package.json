@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "lerna:publish": "lerna publish --registry http://localhost:4873/"
+  },
+  "devDependencies": {
+    "lerna": "^3.5.1"
+  }
+}
