@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "lerna:publish": "lerna publish patch --yes --registry http://localhost:4873/",
+    "lerna:publish": "lerna publish patch from-package --yes --registry http://localhost:4873/",
     "lerna:test": "lerna run test --since master"
   },
   "devDependencies": {
