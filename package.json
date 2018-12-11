@@ -6,6 +6,6 @@
     "lerna:test": "lerna run test --since master"
   },
   "devDependencies": {
-    "lerna": "^3.5.1"
+    "lerna": "~3.6.0"
   }
 }
